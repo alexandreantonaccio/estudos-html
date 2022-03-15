@@ -1,0 +1,14 @@
+@import "UTF-8";
+
+body {
+    font: normal 16px Arial, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
