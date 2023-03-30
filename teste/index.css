@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.titulo {
+    color: blue;
+    margin: auto;
+    text-align: center;
+}
+
+.descricao {
+    color: green;
+    margin: auto;
+   text-align: center;
+}
+
+.imagem img{
+    width: 150px;
+    margin: auto;
+    display: block;
+}
+
+div.lista {
+    text-align: center;
+}
+ul.lista1 {
+    display: inline-block;
+    text-align: left;
+    color: green;
+}
+
+a.link {
+    text-align: center;
+    display: block;
+    color: red;
+}
