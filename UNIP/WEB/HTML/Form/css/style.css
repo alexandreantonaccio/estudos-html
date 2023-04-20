@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+h2{
+    margin-top: 100px;
+    text-align: center;
+}
+
+form{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 20px;
+
+
+    
+}
+
+form label,
+    input[type="text"],
+    input[type="email"]{
+    width: 100%;
+}
+
+input[type="text"], input[type="email"]{
+    padding: 10px;
+    border-radius: 4px;
+}
+
+form input[type="radio"]{
+    width: 10%;
+    text-align: left;
+}
+
+form button{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(143, 111, 173);
+    border: none;
+    color: white;
+    margin-top: 10px;
+    font-size: 18px;;
+}
