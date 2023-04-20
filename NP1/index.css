@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body {
+    background-color: blanchedalmond;
+}
+
+.nome h1 {
+    text-align: center;
+}
+
+main {
+    min-width: 400px;
+    max-width: 800px;
+    max-height: 1000px;
+    min-height: 500px;
+    margin: auto;
+}
+
+hr.solido {
+    border-top: 2px solid black;
+  }
+
+.foto img{
+    margin: auto;
+    display: block;
+    text-align: center;
+    -webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 1)), to(rgba(0,0,0,0)))
+}
